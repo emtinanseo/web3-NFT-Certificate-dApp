@@ -8,6 +8,8 @@
 
 # Content
 ## Notebooks
-- Creating account on Algorand network [playground_AlgorandTransactions.ipynb](https://github.com/emtinanseo/web3-NFT-Certificate-dApp/blob/main/notebooks/playground_AlgorandTransactions.ipynb)
+- Creating accounts and carrying transactions on Algorand network [playground_AlgorandTransactions.ipynb](https://github.com/emtinanseo/web3-NFT-Certificate-dApp/blob/main/notebooks/playground_AlgorandTransactions.ipynb)
 
 - Creating Assets on Algorand network ASA [playground_AlgorandASA.ipynb](https://github.com/emtinanseo/web3-NFT-Certificate-dApp/blob/main/notebooks/playground_AlgorandASA.ipynb)
+
+![An image of transaction viewed on AlgoExplorer](https://github.com/emtinanseo/web3-NFT-Certificate-dApp/blob/main/images/transaction_AlgoExplorer.png)
