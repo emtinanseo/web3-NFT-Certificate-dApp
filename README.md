@@ -12,4 +12,5 @@
 
 - Creating Assets on Algorand network ASA [playground_AlgorandASA.ipynb](https://github.com/emtinanseo/web3-NFT-Certificate-dApp/blob/main/notebooks/playground_AlgorandASA.ipynb)
 
-![An image of transaction viewed on AlgoExplorer](https://github.com/emtinanseo/web3-NFT-Certificate-dApp/blob/main/images/transaction_AlgoExplorer.png)
+![An image of transaction viewed on AlgoExplorer](images/transaction_AlgoExplorer.png)
+An image of transaction viewed on AlgoExplorer
